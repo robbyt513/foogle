@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+   
+
+#foogle {
+    height: 105px;
+    width: 250px;
+    padding-left: 480px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+
+#about {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 15px;
+    left: 12px;
+    position: absolute;
+    border: none;
+    background: none; 
+    outline: none;
+    text-decoration: none;
+}
+
+#about:hover {
+    text-decoration: underline;
+}
+
+#store{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 15px;
+    left: 60px;
+    position: absolute;
+    text-decoration: none;
+}
+
+#store:hover {
+    text-decoration: underline;
+}
+
+#advertising {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 630px;
+    left: 30px;
+    position: absolute;
+    border: none;
+    background: none; 
+    outline: none;
+    text-decoration: none;
+}
+
+#advertising:hover {
+    text-decoration: underline;
+}
+
+#business {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 630px;
+    left: 102px;
+    position: absolute;
+    border: none;
+    background: none; 
+    outline: none;
+    text-decoration: none;
+}
+
+#business:hover {
+    text-decoration: underline;
+}
+
+#how-search-works {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 630px;
+    left: 160px;
+    position: absolute;
+    border: none;
+    background: none; 
+    outline: none;
+    text-decoration: none;
+}
+
+#how-search-works:hover {
+    text-decoration: underline;
+}
+
+#privacy {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 630px;
+    right: 120px;
+    position: absolute;
+    border: none;
+    background: none; 
+    outline: none;
+    text-decoration: none;
+}
+
+#privacy:hover {
+    text-decoration: underline;
+}
+
+#terms {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 630px;
+    right: 70px;
+    position: absolute;
+    border: none;
+    background: none; 
+    outline: none;
+    text-decoration: none;
+}
+
+#terms:hover {
+    text-decoration: underline;
+}
+
+#settings {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 630px;
+    right: 10px;
+    position: absolute;
+    border: none;
+    background: none; 
+    outline: none;
+    text-decoration: none;
+}
+
+#settings:hover {
+    text-decoration: underline;
+}
+
+#gmail {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 18px;
+    left: 84%;
+    position: absolute;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#gmail:hover {
+    text-decoration: underline;
+}
+
+#images {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px;
+    top: 18px;
+    left: 88%;
+    position: absolute;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#images:hover {
+    text-decoration: underline;
+}
+
+#apps {
+    height: 25px;
+    width: 25px;
+    color: rgba(92, 88, 88, 0.466);
+    top: 11px;
+    left: 93%;
+    position: absolute;
+    display: inline-block;
+}
+
+#google-search {
+    color: black;
+    top: 58%;
+    left: 40%;
+    position: absolute;
+    padding: 10px;
+    border: white;
+    border-radius: 4px;
+}
+
+#google-search:hover {
+    outline: 1.5px solid lightgray;
+    border-radius: auto;
+}
+
+#im-feeling-lucky {
+    color: black;
+    top: 58%;
+    left: 50%;
+    position: absolute;
+    padding: 10px;
+    border: white;
+    border-radius: 4px;
+}
+
+#im-feeling-lucky:hover {
+    outline: 1.5px solid lightgray;
+    border-radius: 0%;
+}
+
+#search {
+    border: 1px solid lightgrey;
+    border-radius: 40px;
+    height: 35px;
+    width: 600px;
+    top: 48%;
+    left: 26%;
+    position: fixed;
+    text-indent: 40px;
+    box-shadow: 1px 1px transparent;
+    font-size: 16px;
+    float: bottom;
+    overflow: hidden;
+}
+
+#search:focus {
+    outline: none;
+    cursor: 20px;
+}
+
+
+#google-icon {
+    color: grey;
+    position: fixed;
+    top: 328px;
+    left: 50px;
+    padding-left: 275px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    opacity: 0.3
+}
+
+#profile {
+    height: 35px;
+    width: 35px;
+    color: rgba(92, 88, 88, 0.466);
+    top: 8px;
+    left: 96%;
+    position: absolute;
+    display: inline-block;
+    opacity: 0.7;
+}
+
+#search:hover {
+    text-shadow:rgba(92, 88, 88, 0.466);
+    background-color: grey;
+  }
+
+  #box {
+    color: grey;
+    background-color: rgb(235, 232, 232);
+    height: 5px;
+    width: 100%;
+    padding: 40px;
+    margin-top: 200px;
+    bottom: 20px;
+    top: 00px;
+    float: bottom;
+    position: static;
+    overflow: hidden;
+  }
